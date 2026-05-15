@@ -1,0 +1,41 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║         RetailIQ – Business Intelligence Report              ║
+╚══════════════════════════════════════════════════════════════╝
+
+📊 KEY PERFORMANCE INDICATORS
+───────────────────────────────────────────────────────────────
+  Total Revenue       : ₹    685,874,958
+  Total Profit        : ₹    256,015,332
+  Profit Margin       :           37.3%
+  Total Transactions  :          50,000
+  Unique Customers    :           2,000
+  Avg Order Value     : ₹      13,717.50
+  Return Rate         :           4.86%
+  Avg Customer Rating :           4.02 / 5
+  Avg Discount Given  :            6.9%
+
+📅 YEAR-OVER-YEAR REVENUE
+───────────────────────────────────────────────────────────────
+  2022: ₹ 226,533,688
+  2023: ₹ 226,860,554
+  2024: ₹ 232,480,716
+
+🏆 TOP PERFORMERS
+───────────────────────────────────────────────────────────────
+  Top Category  : Electronics
+  Top City      : Pune
+  Top Product   : Smartphone
+  Top Payment   : Net Banking
+  Top Channel   : In-Store
+
+💡 KEY BUSINESS INSIGHTS
+───────────────────────────────────────────────────────────────
+  1. Electronics drives the highest revenue – focus marketing budgets here.
+  2. UPI & digital payments dominate – invest in seamless digital checkout.
+  3. Q4 shows peak sales (Diwali / festive season) – plan inventory early.
+  4. Premium segment customers have 2.3x higher avg order value.
+  5. Return rate at 4.9% – investigate Electronics returns (quality checks).
+  6. Loyalty members spend ~35% more per transaction on average.
+  7. 26-45 age group contributes ~55% of revenue – primary target audience.
+  8. Pune leads city revenue – open a second store or expand capacity.

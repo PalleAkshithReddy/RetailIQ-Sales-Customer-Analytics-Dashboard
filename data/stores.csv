@@ -1,0 +1,13 @@
+store_id,store_name,city,region,size_sqft,manager,open_date
+STR001,RetailIQ Hyderabad,Hyderabad,South,5925,Maanav Dubey,2019-06-27
+STR002,RetailIQ Mumbai,Mumbai,West,12896,Ronith Virk,2019-04-11
+STR003,RetailIQ Delhi,Delhi,North,8200,Nathaniel Oommen,2018-02-01
+STR004,RetailIQ Bengaluru,Bengaluru,South,2937,Indali Virk,2019-07-07
+STR005,RetailIQ Chennai,Chennai,South,7410,Anmol Wali,2020-12-12
+STR006,RetailIQ Kolkata,Kolkata,East,2050,Tristan Ratta,2018-12-13
+STR007,RetailIQ Pune,Pune,West,13441,Gabriel Ray,2019-04-05
+STR008,RetailIQ Ahmedabad,Ahmedabad,West,13882,Tanvi Dara,2020-09-24
+STR009,RetailIQ Jaipur,Jaipur,North,2420,Kevin Venkataraman,2018-02-19
+STR010,RetailIQ Lucknow,Lucknow,North,4013,Chaitanya Narula,2018-07-15
+STR011,RetailIQ Chandigarh,Chandigarh,North,6578,Yauvani Seshadri,2017-08-03
+STR012,RetailIQ Kochi,Kochi,South,14311,Yoshita Kant,2020-02-12

@@ -1,0 +1,81 @@
+product_id,product_name,category,brand,unit_price,cost_price,stock_qty,supplier_city
+PROD0001,Smartphone,Electronics,Comar,70199.26,38195.01,317,Kolkata
+PROD0002,Laptop,Electronics,"Vig,",31246.71,19866.22,398,Chennai
+PROD0003,Tablet,Electronics,Varma-Doctor,54604.07,37776.41,28,Chennai
+PROD0004,Headphones,Electronics,Deshmukh-Banik,39680.61,22819.58,97,Jaipur
+PROD0005,Smart Watch,Electronics,Tripathi,15904.74,10869.15,448,Bengaluru
+PROD0006,Camera,Electronics,Sawhney-Tella,70539.75,43746.64,462,Ahmedabad
+PROD0007,Speaker,Electronics,Som-Dar,655.42,314.88,275,Ahmedabad
+PROD0008,Charger,Electronics,"Majumdar,",39898.19,21862.8,181,Mumbai
+PROD0009,Power Bank,Electronics,Savant-Tripathi,70467.83,37510.46,42,Chandigarh
+PROD0010,Earbuds,Electronics,Pandey,50210.93,28539.6,500,Kolkata
+PROD0011,T-Shirt,Clothing,"Yadav,",4143.66,2327.14,73,Mumbai
+PROD0012,Jeans,Clothing,Vaidya-Ray,4600.15,2133.07,322,Chandigarh
+PROD0013,Dress,Clothing,Walla,687.87,458.22,413,Chandigarh
+PROD0014,Jacket,Clothing,"Bedi,",2375.83,1084.55,274,Kolkata
+PROD0015,Shoes,Clothing,Goswami-Dhawan,717.54,414.18,191,Pune
+PROD0016,Kurta,Clothing,"Bhattacharyya,",3179.71,1948.92,193,Chennai
+PROD0017,Saree,Clothing,"Parmar,",2797.03,1718.55,84,Hyderabad
+PROD0018,Formal Shirt,Clothing,"Sarna,",4131.9,1930.02,106,Chandigarh
+PROD0019,Shorts,Clothing,Sekhon-Sachdev,3520.53,1873.47,63,Ahmedabad
+PROD0020,Sweater,Clothing,Tella-Bumb,4570.52,2606.05,403,Kolkata
+PROD0021,Rice,Groceries,Kamdar,218.15,105.93,235,Bengaluru
+PROD0022,Wheat Flour,Groceries,Dhaliwal-Jayaraman,199.16,98.3,443,Jaipur
+PROD0023,Cooking Oil,Groceries,Sundaram-Sahota,112.76,75.69,183,Bengaluru
+PROD0024,Sugar,Groceries,"Mishra,",410.46,274.84,43,Mumbai
+PROD0025,Salt,Groceries,Vora,403.6,206.3,33,Lucknow
+PROD0026,Pulses,Groceries,Jaggi,168.27,97.1,309,Ahmedabad
+PROD0027,Spices,Groceries,"Patla,",251.21,145.02,265,Jaipur
+PROD0028,Tea,Groceries,Bains-Bail,205.72,139.95,308,Chandigarh
+PROD0029,Coffee,Groceries,Virk-Pall,125.41,85.76,201,Chennai
+PROD0030,Biscuits,Groceries,"Majumdar,",69.49,38.67,249,Pune
+PROD0031,Pressure Cooker,Home & Kitchen,Bava,3181.88,1497.41,441,Jaipur
+PROD0032,Non-Stick Pan,Home & Kitchen,Madan,7427.45,3707.5,178,Chennai
+PROD0033,Mixer Grinder,Home & Kitchen,"Mangat,",2340.1,1485.86,477,Chennai
+PROD0034,Dinner Set,Home & Kitchen,Bail,6308.18,3583.05,272,Delhi
+PROD0035,Water Bottle,Home & Kitchen,Narayanan,1836.24,1200.16,184,Mumbai
+PROD0036,Storage Box,Home & Kitchen,"Trivedi,",5643.64,3354.45,75,Chennai
+PROD0037,Curtains,Home & Kitchen,"Prabhakar,",6707.37,4323.98,285,Chennai
+PROD0038,Bedsheet,Home & Kitchen,"Keer,",7392.65,4441.14,321,Lucknow
+PROD0039,Pillow,Home & Kitchen,"Rattan,",3246.35,1827.32,468,Chennai
+PROD0040,Lamp,Home & Kitchen,Mangat,449.09,310.21,155,Bengaluru
+PROD0041,Face Wash,Beauty,Pillay,1603.26,784.41,66,Delhi
+PROD0042,Moisturizer,Beauty,Borde,2610.39,1637.81,253,Delhi
+PROD0043,Lipstick,Beauty,Bhatnagar-Nath,2085.71,971.92,214,Lucknow
+PROD0044,Shampoo,Beauty,Sarin,1434.05,961.17,243,Kolkata
+PROD0045,Conditioner,Beauty,Jha,2448.77,1550.83,244,Pune
+PROD0046,Perfume,Beauty,Trivedi,2842.44,1725.42,159,Chandigarh
+PROD0047,Sunscreen,Beauty,"Gopal,",1530.61,718.06,63,Jaipur
+PROD0048,Nail Polish,Beauty,Chakrabarti-Varghese,1567.09,998.92,205,Kolkata
+PROD0049,Foundation,Beauty,"Shere,",431.69,246.58,44,Mumbai
+PROD0050,Serum,Beauty,"Desai,",2479.06,1177.87,160,Mumbai
+PROD0051,Yoga Mat,Sports,Kalita,1703.42,781.21,355,Jaipur
+PROD0052,Dumbbells,Sports,Nayak,7220.54,3805.81,36,Lucknow
+PROD0053,Running Shoes,Sports,"Mammen,",2536.93,1769.06,182,Bengaluru
+PROD0054,Cricket Bat,Sports,Mand,6707.93,3878.02,427,Kolkata
+PROD0055,Football,Sports,"Chaudhari,",4392.65,2331.81,17,Pune
+PROD0056,Badminton Racket,Sports,"Balasubramanian,",2928.16,1965.87,220,Chennai
+PROD0057,Cycling Gloves,Sports,Bhargava,9237.72,4375.78,176,Chandigarh
+PROD0058,Water Sipper,Sports,Thakur-Basak,6426.1,4259.79,256,Mumbai
+PROD0059,Gym Bag,Sports,Rana,2477.0,1258.69,325,Mumbai
+PROD0060,Jump Rope,Sports,Menon,3869.71,1939.1,29,Bengaluru
+PROD0061,Self-Help Book,Books,Kapadia-Chokshi,678.24,393.53,222,Chandigarh
+PROD0062,Novel,Books,Bawa-Murthy,147.67,102.94,420,Chandigarh
+PROD0063,Textbook,Books,"Lanka,",157.16,108.19,36,Chandigarh
+PROD0064,Children's Book,Books,"Upadhyay,",282.94,157.47,249,Chennai
+PROD0065,Biography,Books,"Bose,",969.95,645.61,256,Mumbai
+PROD0066,Recipe Book,Books,Jha,489.09,336.71,256,Hyderabad
+PROD0067,Business Book,Books,Sule-Singhal,596.57,325.2,166,Ahmedabad
+PROD0068,Science Book,Books,"Lalla,",923.52,614.52,383,Kochi
+PROD0069,History Book,Books,"Sur,",376.03,175.91,463,Hyderabad
+PROD0070,Poetry Collection,Books,Ram,793.14,426.03,373,Ahmedabad
+PROD0071,Board Game,Toys,Barad-Tak,3701.5,2000.12,371,Chandigarh
+PROD0072,Puzzle,Toys,Krish,2397.28,1475.89,92,Hyderabad
+PROD0073,Action Figure,Toys,Chaudry-Ray,3657.72,2447.02,94,Pune
+PROD0074,Doll,Toys,"Ramesh,",3530.2,2230.78,55,Mumbai
+PROD0075,LEGO Set,Toys,Sood,1370.09,954.62,427,Ahmedabad
+PROD0076,Remote Car,Toys,"Sama,",1623.05,1016.05,111,Ahmedabad
+PROD0077,Art Kit,Toys,Dugal-Batta,3084.58,1588.06,471,Pune
+PROD0078,Building Blocks,Toys,Rajagopal,443.26,202.76,130,Ahmedabad
+PROD0079,Card Game,Toys,Rout-Barad,358.11,180.04,415,Hyderabad
+PROD0080,Stuffed Animal,Toys,"Dutt,",1478.23,917.19,185,Kolkata
