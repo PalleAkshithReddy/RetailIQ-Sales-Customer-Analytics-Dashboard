@@ -194,7 +194,7 @@ This project demonstrates:
 **[Palle Akshith Reddy]**  
 Data Analyst | Python • SQL • Power BI  
 📧 palleakshithreddy394@gmail.com  
-🔗 [LinkedIn]([(https://www.linkedin.com/in/palle394)]) 
+🔗 [LinkedIn](https://www.linkedin.com/in/palle394)
 
 ---
 
