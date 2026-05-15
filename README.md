@@ -191,10 +191,10 @@ This project demonstrates:
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Palle Akshith Reddy]**  
 Data Analyst | Python • SQL • Power BI  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+📧 palleakshithreddy394@gmail.com  
+🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/palle394))
 
 ---
 
